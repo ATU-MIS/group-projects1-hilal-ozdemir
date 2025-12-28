@@ -11,7 +11,7 @@ Seçim: Kullanıcı uçuşu ve ardından koltuğu seçer.
 
 Ödeme & Onay: Kullanıcı ödeme bilgilerini iletir -> Sistem ödemeyi onaylar -> Bilet bilgisi bildirimi gönderilir ve Seyahat Rehberi sunulur.
 
-Uçuş Sonrası: Kullanıcı sistem üzerinden uçuş sonrası hizmetlere erişir.
+2)Uçuş Sonrası: Kullanıcı sistem üzerinden uçuş sonrası hizmetlere erişir.
 Admin kullanıcısı, sistemin arka planındaki verileri yönetmek için sisteme dahil olur.
 Aktör , İşlem,    Hedef Veri
 Admin,  Giriş Yap,  Admin Paneli
